@@ -107,7 +107,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 ---
 
 ## 📧 Contact
-For any questions or suggestions, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/ayeshaandleeb/) or open an issue on this repository.
+For any questions or suggestions, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/ayesha-andleeb-262352278/) or open an issue on this repository.
 
 ---
 
